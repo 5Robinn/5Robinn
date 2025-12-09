@@ -34,16 +34,6 @@
 <a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="vscode"/></a>
 </p>
 
-  <br>
-
-  <h3>📊 GitHub Stats</h3>
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=BeratErol&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&locale=tr" height="180" alt="stats graph" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeratErol&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&locale=tr" height="180" alt="languages graph" />
-  </div>
-
-  <br>
-
   <h3>📫 Connect with Me</h3>
   <p align="center">
     <a href="mailto:beraterol2147@gmail.com">
